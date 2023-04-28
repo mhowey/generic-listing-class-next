@@ -1,5 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Generic Lister Class
+## Summary
+
+generic-lister-class is a utility class that can be implemented by another class for listing something specific (like the example ArticleLister.tsx in this repository).
+
+This is an example of utilizing an abstract class as a blueprint for a specific implementation. This class could be used for any type of list such as products and product detail pages, employees and employee detail pages, or anything using the list/detail pattern.
+
+
 ## Getting Started
 
 First, run the development server:
